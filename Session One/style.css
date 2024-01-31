@@ -1,0 +1,92 @@
+
+.caption {
+    color:black;
+    font-family: 'Century Gothic',Serif;
+    font-weight: 200;
+    font-size: 24px;
+    text-align: center;
+    position: relative;
+    top:64px;
+}
+
+.menu a{
+    color: black;
+    font-family: 'Century Gothic',Serif;
+    font-size: 30px;
+    text-decoration: none;
+    text-align: center;
+    position: relative;
+    top: 40px;
+    padding-right: 40px;
+}
+
+
+.logoimage {
+    width:700px;
+}
+
+
+img {
+    max-width: 100%;
+}
+
+.gridImage {
+    width: 38%;
+    padding: 1px;
+    
+}
+
+.imageContainer {
+    width: 65%;
+    margin: 0 auto;
+    position: relative;
+    top: 60px;
+    text-align: center;
+}
+
+
+
+.brushstrokes {
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.brushstrokes img {
+    width: 350px;
+}
+
+
+.instagramcaption {
+    color:black;
+    font-family: 'Century Gothic',Serif;
+    font-weight: 200;
+    font-size: 24px;
+    text-align: center;
+    position: relative;
+    top: 45px;
+    text-decoration: none;
+    }
+
+.instagramlogo {
+text-align: center;
+margin-top: 55px;
+}
+
+.captionvid{
+    color:black;
+    font-family: 'Century Gothic',Serif;
+    font-weight: 200;
+    font-size: 24px;
+    text-align: center;
+    position: relative;
+    top: 30px;
+}
+
+
+.video {
+    text-align: center;
+
+}

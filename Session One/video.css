@@ -1,0 +1,47 @@
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.caption {
+    color:black;
+    font-family: 'Century Gothic',Serif;
+    font-weight: 200;
+    font-size: 36px;
+    text-align: center;
+    position: relative;
+    top: 60px;
+}
+
+.menu a{
+    color: black;
+    font-family: 'Century Gothic',Serif;
+    font-size: 30px;
+    text-decoration: none;
+    text-align: center;
+    position: relative;
+    top: 40px;
+    padding-right: 40px;
+    }
+    
+
+.logoimage {
+    width:700px;
+}
+
+.brushstrokes {
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.brushstrokes img {
+    width: 350px;
+}
+
+.video{
+    width: 300px;
+}

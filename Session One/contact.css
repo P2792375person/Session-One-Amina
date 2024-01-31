@@ -1,0 +1,57 @@
+.caption {
+    color:black;
+    font-family: 'Century Gothic',Serif;
+    font-weight: 300;
+    font-size: 24px;
+    text-align: left;
+    position: relative;
+    top: 60px;
+}
+
+.menu a{
+    color: black;
+    font-family: 'Century Gothic',Serif;
+    font-size: 30px;
+    text-decoration: none;
+    text-align: center;
+    position: relative;
+    top: 40px;
+    padding-right: 40px;
+    }
+
+    .instagramname{
+        color: black;
+        font-family: 'Century Gothic',Serif;
+        font-size: 48px;
+        text-decoration: none;
+        text-align: left;
+        position: absolute;
+        margin-bottom: 10px;
+        
+    }
+    
+    .instgramlink{
+        text-align: center;
+        text-decoration: none;
+        }
+
+    .instgramlogo{
+        size:100px;
+    }
+
+    .logoimage {
+        width:700px;
+    }
+
+    .brushstrokes {
+        position: absolute;
+        width: 100%;
+        bottom: 0px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .brushstrokes img {
+        width: 350px;
+    }
+    
